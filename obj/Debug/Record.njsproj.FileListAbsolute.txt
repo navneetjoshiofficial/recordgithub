@@ -1,0 +1,2 @@
+D:\Navneet\Record\obj\Debug\Record.njsprojResolveAssemblyReference.cache
+D:\Navneet\Record\bin\Microsoft.NodejsTools.WebRole.dll
